@@ -12,5 +12,9 @@ name = "no0005"
 path = "src/no0005.rs"
 
 [[bin]]
+name = "no0044"
+path = "src/no0044.rs"
+
+[[bin]]
 name = "no0045"
 path = "src/no0045.rs"
