@@ -1,0 +1,12 @@
+[package]
+name = "no1351_1400"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "no1380"
+path = "src/no1380.rs"
